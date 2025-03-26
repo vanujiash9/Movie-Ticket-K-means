@@ -1,4 +1,4 @@
-#Phân tích hành vi khách hàng xem phim
+# Phân tích hành vi đặt vé xem phim của khách hàng
 # Phân cụm Khách hàng Sử dụng K-Means
 
 ## 1. Giới thiệu
