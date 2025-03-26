@@ -128,12 +128,4 @@ Nếu có bất kỳ thắc mắc hoặc góp ý nào, vui lòng mở issue trê
 
 ---
 
-### Hướng dẫn sử dụng README này
-
-1. Tạo file `README.md` trong repository của bạn.
-2. Sao chép và dán nội dung trên vào file.
-3. Điều chỉnh các thông tin (đường dẫn, email, tên repo, …) cho phù hợp với dự án của bạn.
-4. Commit và push file `README.md` lên GitHub.
-
-Mẫu README này cung cấp cái nhìn tổng quan về dự án phân tích dữ liệu bán vé phim, quy trình xử lý và kết hợp dữ liệu, các bước phân tích đa chiều và phân cụm khách hàng bằng K-Means, cũng như chiến lược marketing cho từng nhóm khách hàng.
 
